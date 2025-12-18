@@ -1,0 +1,50 @@
+# =====================
+# Python cache
+# =====================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =====================
+# Virtual environments
+# =====================
+venv/
+.env/
+.env
+
+# =====================
+# Jupyter Notebook
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# ML / LLM artifacts
+# =====================
+models/
+checkpoints/
+adapter_model/
+*.bin
+*.pt
+*.safetensors
+
+# =====================
+# Vector databases (ChromaDB)
+# =====================
+chroma/
+chromadb/
+*.db
+*.sqlite
+
+# =====================
+# Logs & experiment tracking
+# =====================
+logs/
+wandb/
+runs/
+
+# =====================
+# OS-specific files
+# =====================
+.DS_Store
+Thumbs.db
