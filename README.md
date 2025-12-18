@@ -1,4 +1,4 @@
-#GRAFT-RAFT and GraphRAG: Specialized LLM Fine-Tuning and Retrieval Systems
+# RAFT and GraphRAG: Specialized LLM Fine-Tuning and Retrieval Systems
 
 This repository contains research documents and implementation notebooks focused on **Retrieval-Augmented Fine-Tuning (RAFT)** and **Graph-based Retrieval-Augmented Generation (GraphRAG)**. The project explores methods to enhance **Large Language Model (LLM)** performance in specialized domains by combining structured retrieval with parameter-efficient fine-tuning.
 
